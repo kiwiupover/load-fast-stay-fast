@@ -1,4 +1,54 @@
 [
-    "index.md",
+    "load-fast-stay-fast.md",
+    "dave-laird.md",
+    "agenda.md",
+    "the-goal.md",
+    {
+        "filename": "why.md",
+        "attr": {
+            "data-background": "#c0392b"
+        }
+    },
+    "go-fast-tools.md",
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "#2c3e50"
+        }
+    },
+    "fastboot-tech.md",
+    "data-loading-states.md",
+    "out-of-the-box-ember-page-load.md",
+    "data-loading-states-2.md",
+    "data-loading-shoebox.md",
+    "data-loading-shoebox-index-stuffing.md",
+    "data-loading-code-next.md",
+    "data-loading-code-next-code.md",
+    "rehydration.md",
+    "rehydration-is-easy.md",
+    "rehydration-tips.md",
+    "rehydration-tips1-1.md",
+    "rehydration-tips1.md",
+    "rehydration-tips2.md",
+    "rehydration-tips3.md",
+    "rehydration-tips4.md",
+    "lazyloading.md",
+    "fastboot-testing.md",
+    "fastboot-testing-code.md",
+    "go-fast-tools.md",
+    "go-fast-tools1.md",
+    "go-fast-tools2.md",
+    {
+        "filename": "outdoorsy.md",
+        "attr": {
+            "data-background": "https://d1o5877uy6tsnd.cloudfront.net/marketplace-search-production/img/homepage/outdoorsy-find-the-perfect-rv-joshua-tree-jeep-25846d08b7207d696c43e6f9e6a7e3ab.jpg"
+        }
+    },
+    "outdoorsy-apps.md",
+    "outdoorsy-stack.md",
+    "outdoorsy-help.md",
+    "opportunities.md",
+    "thanks.md",
+    "slide-title.html",
     "dave.md"
 ]
