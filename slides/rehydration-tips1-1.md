@@ -12,3 +12,5 @@
   {{content-for "body-footer"}}
 </body>
 ```
+
+### This is the default
