@@ -1,5 +1,5 @@
-## Load Fast Oppotunities 
+## Load Fast Opportunities
 
-- #### Critical Path CSS
-- #### Remove white space
-- #### Improve lazyloading
+- ### Critical Path CSS
+- ### Remove white space
+- ### Improve lazyloading

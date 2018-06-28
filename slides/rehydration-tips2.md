@@ -3,8 +3,8 @@
 
 ## Responsiveness
 
-- #### ember-responsive
-- #### Use CSS
+- ### ember-responsive
+- ### Use CSS
 
 ```hbs
   <div class="fg-col-md-4 hidden-xs hidden-sm map-column">

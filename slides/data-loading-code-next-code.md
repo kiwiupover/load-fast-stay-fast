@@ -1,4 +1,4 @@
-### cache shoe
+## cache shoe
 
 ```js
 import JSONAPIAdapter from 'ember-data/adapters/json-api';

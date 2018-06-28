@@ -1,6 +1,6 @@
 ## Load Fast
 
-- #### SSR
-- #### Data Fetching
-- #### Rehydration
-- #### Lazyloading
+- ### SSR
+- ### Data Fetching
+- ### Rehydration
+- ### Lazyloading

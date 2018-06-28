@@ -396,6 +396,10 @@ svg.fastboot-logo {
   svg.fastboot-logo path {
     fill: white; }
 
+.col-flex {
+  display: flex;
+  flex-direction: row; }
+
 .javascript {
   border: 1px solid #d1d1d1;
   font-size: 12px;
@@ -471,3 +475,14 @@ svg.fastboot-logo {
   width: 300px; }
   svg.fastboot-logo path {
     fill: white; }
+
+.col-flex {
+  display: flex;
+  flex-direction: row; }
+  .col-flex.col-middle {
+    align-items: center;
+    justify-content: center; }
+  .col-flex .full-width {
+    width: 100%; }
+  .col-flex .half-width {
+    width: 50%; }

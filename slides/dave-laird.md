@@ -1,6 +1,6 @@
 # Dave Laird
 
-### Husband
-### Dad
-### Dev at Outdoorsy
-### @kiwiupover
+- ### Husband
+- ### Dad
+- ### Dev at Outdoorsy
+- ### @kiwiupover

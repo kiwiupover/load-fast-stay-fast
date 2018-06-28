@@ -1,8 +1,82 @@
 [
-    "load-fast-stay-fast.md",
-    "dave-laird.md",
-    "agenda.md",
-    "the-goal.md",
+    {
+        "filename": "load-fast-stay-fast.md",
+        "attr": {
+            "data-background": "#3c6382"
+        }
+    },
+    {
+        "filename": "dave-laird.md",
+        "attr": {
+            "data-background": "#3c6382"
+        }
+    },
+    {
+        "filename": "agenda.md",
+        "attr": {
+            "data-background": "#3c6382"
+        }
+    },
+    {
+        "filename": "nz.html",
+        "attr": {
+            "data-background": "#079992"
+        }
+    },
+    {
+        "filename": "nz1.html",
+        "attr": {
+            "data-background": "#079992"
+        }
+    },
+    {
+        "filename": "nz2.html",
+        "attr": {
+            "data-background": "#079992"
+        }
+    },
+    {
+        "filename": "nz2-2.html",
+        "attr": {
+            "data-background": "#079992"
+        }
+    },
+    {
+        "filename": "nz3.html",
+        "attr": {
+            "data-background": "#079992"
+        }
+    },
+    {
+        "filename": "nz4.html",
+        "attr": {
+            "data-background": "#079992"
+        }
+    },
+    {
+        "filename": "nz5.html",
+        "attr": {
+            "data-background": "#079992"
+        }
+    },
+    {
+        "filename": "nz6.html",
+        "attr": {
+            "data-background": "#079992"
+        }
+    },
+    {
+        "filename": "agenda2.md",
+        "attr": {
+            "data-background": "#3c6382"
+        }
+    },
+    {
+        "filename": "the-goal.md",
+        "attr": {
+            "data-background": "#e55039"
+        }
+    },
     {
         "filename": "why.md",
         "attr": {
@@ -13,28 +87,124 @@
     {
         "filename": "index.md",
         "attr": {
-            "data-background": "#2c3e50"
+            "data-background": "#4a69bd"
         }
     },
-    "fastboot-tech.md",
-    "data-loading-states.md",
-    "out-of-the-box-ember-page-load.md",
-    "data-loading-states-2.md",
-    "data-loading-shoebox.md",
-    "data-loading-shoebox-index-stuffing.md",
-    "data-loading-code-next.md",
-    "data-loading-code-next-code.md",
-    "rehydration.md",
-    "rehydration-is-easy.md",
-    "rehydration-tips.md",
-    "rehydration-tips1-1.md",
-    "rehydration-tips1.md",
-    "rehydration-tips2.md",
-    "rehydration-tips3.md",
-    "rehydration-tips4.md",
-    "lazyloading.md",
-    "fastboot-testing.md",
-    "fastboot-testing-code.md",
+    {
+        "filename": "fastboot-tech.md",
+        "attr": {
+            "data-background": "#4a69bd"
+        }
+    },
+    {
+        "filename": "data-loading-states.md",
+        "attr": {
+            "data-background": "#4a69bd"
+        }
+    },
+    {
+        "filename": "out-of-the-box-ember-page-load.md",
+        "attr": {
+            "data-background": "#4a69bd"
+        }
+    },
+    {
+        "filename": "data-loading-states-2.html",
+        "attr": {
+            "data-background": "#4a69bd"
+        }
+    },
+    {
+        "filename": "data-loading-shoebox.md",
+        "attr": {
+            "data-background": "#4a69bd"
+        }
+    },
+    {
+        "filename": "data-loading-shoebox-index-stuffing.md",
+        "attr": {
+            "data-background": "#4a69bd"
+        }
+    },
+    {
+        "filename": "data-loading-code-next.md",
+        "attr": {
+            "data-background": "#4a69bd"
+        }
+    },
+    {
+        "filename": "data-loading-code-next-code.md",
+        "attr": {
+            "data-background": "#4a69bd"
+        }
+    },
+    {
+        "filename": "rehydration.md",
+        "attr": {
+            "data-background": "#1e3799"
+        }
+    },
+    {
+        "filename": "rehydration-is-easy.md",
+        "attr": {
+            "data-background": "#1e3799"
+        }
+    },
+    {
+        "filename": "rehydration-tips.md",
+        "attr": {
+            "data-background": "#1e3799"
+        }
+    },
+    {
+        "filename": "rehydration-tips1-1.md",
+        "attr": {
+            "data-background": "#1e3799"
+        }
+    },
+    {
+        "filename": "rehydration-tips1.md",
+        "attr": {
+            "data-background": "#1e3799"
+        }
+    },
+    {
+        "filename": "rehydration-tips2.md",
+        "attr": {
+            "data-background": "#1e3799"
+        }
+    },
+    {
+        "filename": "rehydration-tips3.md",
+        "attr": {
+            "data-background": "#1e3799"
+        }
+    },
+    {
+        "filename": "rehydration-tips4.md",
+        "attr": {
+            "data-background": "#1e3799"
+        }
+    },
+    {
+        "filename": "lazyloading.md",
+        "attr": {
+            "data-background": "#3c6382"
+        }
+    },
+    {
+        "filename": "fastboot-testing.md",
+        "attr": {
+            "data-background": "#0a3d62"
+        }
+    },
+    {
+        "filename": "fastboot-testing-code.md",
+        "attr": {
+            "data-background": "#0a3d62"
+        }
+    },
+
     "go-fast-tools.md",
     "go-fast-tools1.md",
     "go-fast-tools2.md",
@@ -48,7 +218,5 @@
     "outdoorsy-stack.md",
     "outdoorsy-help.md",
     "opportunities.md",
-    "thanks.md",
-    "slide-title.html",
-    "dave.md"
+    "thanks.md"
 ]
